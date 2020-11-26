@@ -1,6 +1,24 @@
 class Pessoa
     attr_accessor :name
     attr_accessor :age
+    
+=begin Esse trecho de código é equivalente ao de cima
+    # def nome=(nome)
+    #   @nome = nome
+    # end
+
+    # def nome
+    #   @nome
+    # end
+
+    # def idade=(idade)
+    #   @idade = idade
+    # end
+
+    # def idade
+    #   @idade
+    # end
+=end
 
     # def scream(text = "AAAAAAAAAAAAAAAAAAAAAA!!!!")
     #     puts "Gritando... #{text}"
