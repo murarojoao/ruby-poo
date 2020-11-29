@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cpf_utils (1.3.1)
+    ffaker (2.17.0)
+    lerolero_generator (1.0.1)
+    mini_portile2 (2.4.0)
+    nokogiri (1.10.10)
+      mini_portile2 (~> 2.4.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  cpf_utils
+  ffaker
+  lerolero_generator
+  nokogiri
+
+BUNDLED WITH
+   2.1.4
